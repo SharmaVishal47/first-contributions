@@ -202,6 +202,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Jon Korte](https://github.com/Werewoof)
 - [Razvan Sandu](https://github.com/SKREFI)
 - [Seungjin Jung](https://github.com/sjjung)
+- Git Cheat Image
 - [Jatin Varlyani](https://github.com/Jatin-8898)
 - [Kelly Finnerty](https://github.com/kellyfinnerty)
 - [Mark Harris](https://github.com/trickfest)
